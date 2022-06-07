@@ -27,7 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Mini_Project">
+  <component name="RunManager" selected="Application.SnakeWaterGun">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="javabasics" />
@@ -35,8 +35,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mini_Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mini_Project" />
+    <configuration name="SnakeWaterGun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SnakeWaterGun" />
       <module name="javabasics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -44,7 +44,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mini_Project" />
+        <item itemvalue="Application.SnakeWaterGun" />
         <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
