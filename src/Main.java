@@ -28,3 +28,4 @@ class Factorial {
         System.out.println(number + " factorial = " + result);
     }
 }
+
